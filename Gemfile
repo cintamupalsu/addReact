@@ -30,6 +30,8 @@ gem 'foundation-rails'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'react-rails'
+gem 'flux-rails-assets'
+gem 'lodash-rails'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
